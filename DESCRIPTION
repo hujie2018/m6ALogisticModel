@@ -1,0 +1,14 @@
+Package: m6ALogisticModel
+Type: Package
+Title: Linear model analysis on RNA modification data.
+Version: 0.3.3
+Author: Zhen Wei
+Maintainer: Zhen Wei <zhen.wei10@icloud.com>
+Description: This package can generate features and build linear models on RNA modification data. 
+License: What license is it under?
+Imports: readr, BSgenome, Biostrings, GenomicFeatures, GenomicRanges, SummarizedExperiment, magrittr, ggplot2, cluster, reshape2, nnet
+Depends: SummarizedExperiment
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.1.1
+URL: http://github.com/ZhenWei10/m6ALogisticModel
